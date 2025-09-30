@@ -4,6 +4,8 @@ description: Hiawatha
 file: /courses/16-621-experimental-projects-i-spring-2003/d607d1e858edfbe0bd3ac4a0be4c3b50_121_hiawatha.pdf
 file_size: 20036
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

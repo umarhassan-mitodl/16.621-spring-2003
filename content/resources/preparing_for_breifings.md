@@ -5,6 +5,8 @@ description: Preparing for progress reports, informal reviews, team meetings or 
 file: /courses/16-621-experimental-projects-i-spring-2003/fff28898402dff9f500a42f890582122_preparing_for_breifings.pdf
 file_size: 21781
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

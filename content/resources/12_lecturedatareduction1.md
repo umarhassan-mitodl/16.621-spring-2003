@@ -4,6 +4,8 @@ description: Data Reduction
 file: /courses/16-621-experimental-projects-i-spring-2003/0d93a095d65a02c3d8c4f1cfb6ea8241_12_lecturedatareduction1.pdf
 file_size: 215396
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

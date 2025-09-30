@@ -4,6 +4,8 @@ description: Literature searches
 file: /courses/16-621-experimental-projects-i-spring-2003/9eb175d33b7a867c5307a97015d89053_07_literaturesearchescitation.pdf
 file_size: 222517
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

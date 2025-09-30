@@ -4,6 +4,8 @@ description: Welcome to 16.621/622
 file: /courses/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38a529fc017c_01_introemm.pdf
 file_size: 167461
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

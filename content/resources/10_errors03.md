@@ -4,6 +4,8 @@ description: Error Analysis (Uncertainity Analysis)
 file: /courses/16-621-experimental-projects-i-spring-2003/95611e0d7e8670a26d6f04d90dc9733f_10_errors03.pdf
 file_size: 138192
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

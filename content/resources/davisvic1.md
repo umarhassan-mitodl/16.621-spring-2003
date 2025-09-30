@@ -4,6 +4,8 @@ description: Testing and Improvement of a Complex System Statement of Project
 file: /courses/16-621-experimental-projects-i-spring-2003/2c30186ac5b4b60381d7775035ae337d_davisvic1.pdf
 file_size: 23127
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
