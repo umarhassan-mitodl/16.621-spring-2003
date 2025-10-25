@@ -4,8 +4,6 @@ description: Creating effective graphics
 file: /courses/16-621-experimental-projects-i-spring-2003/722b4d8eed1815fb40c6583d1d9bc520_13_graphicsiversionIIs03_to_CMS.pdf
 file_size: 215635
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

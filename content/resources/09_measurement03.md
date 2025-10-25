@@ -4,8 +4,6 @@ description: 'Experimental Measurement: Methods and Methodology'
 file: /courses/16-621-experimental-projects-i-spring-2003/bb1c0a906b690832fad0c2e02982e165_09_measurement03.pdf
 file_size: 309019
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

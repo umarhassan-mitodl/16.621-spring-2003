@@ -4,8 +4,6 @@ description: How Writers and Speakers Plan Communication Strategy
 file: /courses/16-621-experimental-projects-i-spring-2003/4fc90d3730b9dd7ea72884c8bedd14f0_04_audienceanalysisact.pdf
 file_size: 128731
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

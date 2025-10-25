@@ -4,8 +4,6 @@ description: Ethics and Experimental Research Projects
 file: /courses/16-621-experimental-projects-i-spring-2003/b0e8a64b7146ba266abeded4a812d1a8_03_62Xf02ethicslecture.pdf
 file_size: 90828
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

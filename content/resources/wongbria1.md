@@ -4,8 +4,6 @@ description: Steerable-Parachute Design and Testing Statement of Project
 file: /courses/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc9748bd1be1_wongbria1.pdf
 file_size: 30526
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

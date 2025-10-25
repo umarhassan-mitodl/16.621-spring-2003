@@ -4,8 +4,6 @@ description: Data Analysis
 file: /courses/16-621-experimental-projects-i-spring-2003/02a3206095cc01e2f672d10d99bd2947_11_dataanalysis.pdf
 file_size: 86627
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
